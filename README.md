@@ -34,6 +34,7 @@ A proposta do desafio deve conter a criação de uma conta e utilizando a docume
 ### Generico
 
 Passo genérico que deve ser seguido para todas as requests.
+A requisição necessita da chave app-id que é gerada. Sem isso a mesma retorna um erro.
 
 ![Untitled](https://user-images.githubusercontent.com/91293456/162552040-c28ebd76-9eaa-4dba-933c-4f495fb21e31.png)
 
